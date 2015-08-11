@@ -14,7 +14,7 @@ var server = net.createServer({port : 8124},function(c) { //'connection' listene
   	console.log(data.toString());
  });
 
-  c.pipe(c);
+ 
 
 });
 
