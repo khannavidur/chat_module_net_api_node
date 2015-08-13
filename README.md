@@ -3,3 +3,6 @@
 node server.js --> to run server
 then
 node index.js --> to run client
+
+
+Brace yourself, for Darth Vader will reveal the biggest truth of the Millennium 
